@@ -2,4 +2,4 @@
 
 ### Lista de afazeres feita com HTML, TypeScript e JavaScript.
 
-![Screenshot](imgts.png)
+![Screenshot](git_imgts.png)
