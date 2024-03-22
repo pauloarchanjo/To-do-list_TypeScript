@@ -1,4 +1,4 @@
-# To-do-list_TypeScript
+# todo-list-typescript
 
 ### Lista de afazeres feita com HTML, TypeScript e JavaScript.
 
